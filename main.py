@@ -110,7 +110,7 @@ async def on_message(message):
         await message.channel.send(mtime)
 
 # Bot token
-client.run('MTA2NjU2Njc1MTcyODQ0NzYxOQ.GW_QQy.sHcgflOq8Rq9Un2-Cwu0P04EwlFOtwA5w285O4')
+client.run('MTA2NjU2Njc1MTcyODQ0NzYxOQ.GpI9c5.629Zde-uIeQGTiAAoe-O5ikl6oRj8If7OqVOgo')
 
 # File voodoo, saves all house variables in a CSV text file
 FileSave = open("File1.txt", "w")
